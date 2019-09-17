@@ -13,7 +13,9 @@ pip install chatterbot-corpus
 
 python -m chatterbot --version
 ```
-# another library
+# another chatbot python library python-telegram-bot
 https://pypi.org/project/python-telegram-bot/12.1.0/
 
 https://python-telegram-bot.readthedocs.io/en/stable/
+
+https://github.com/python-telegram-bot/python-telegram-bot/tree/master/examples
