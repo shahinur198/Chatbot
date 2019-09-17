@@ -4,3 +4,5 @@ https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nl
 
 https://www.youtube.com/watch?v=tSjR7bk1Y9U
 
+# Chatbot python library
+https://chatterbot.readthedocs.io/en/stable/setup.html
