@@ -19,3 +19,7 @@ https://pypi.org/project/python-telegram-bot/12.1.0/
 https://python-telegram-bot.readthedocs.io/en/stable/
 
 https://github.com/python-telegram-bot/python-telegram-bot/tree/master/examples
+
+```
+pip install python-telegram-bot==12.1.0
+```
