@@ -15,3 +15,5 @@ python -m chatterbot --version
 ```
 # another library
 https://pypi.org/project/python-telegram-bot/12.1.0/
+
+https://python-telegram-bot.readthedocs.io/en/stable/
