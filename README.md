@@ -29,3 +29,7 @@ https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0
 
 # RASA Chatbot
 https://www.youtube.com/watch?v=7LdN3cA6WOg
+
+https://rasa.com/docs/rasa/user-guide/installation/
+
+https://medium.com/hackernoon/build-simple-chatbot-with-rasa-part-1-f4c6d5bb1aea
