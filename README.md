@@ -23,3 +23,6 @@ https://github.com/python-telegram-bot/python-telegram-bot/tree/master/examples
 ```
 pip install python-telegram-bot==12.1.0
 ```
+
+
+https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2
