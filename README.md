@@ -38,3 +38,10 @@ https://medium.com/hackernoon/build-simple-chatbot-with-rasa-part-1-f4c6d5bb1aea
 https://www.youtube.com/watch?v=xu6D_vLP5vY
 
 https://www.youtube.com/watch?v=YCZsiyOfDLk
+
+# rasa install
+```
+pip install rasa
+```
+https://rasa.com/docs/rasa/user-guide/rasa-tutorial/
+
